@@ -80,7 +80,8 @@ This **star schema** enhances **query speed, filtering, and DAX calculations**.
 | **Dimension Table** | `CFO Metrics` | Financial metrics (cost rank, sales rank) |
 | **Dimension Table** | `USD-CAD Exchange Rates` | Multi-currency conversion for sales reports |
 
----
+![image](https://github.com/user-attachments/assets/a3227430-b032-42dc-bb68-04d9cea10753)
+
 
 ## 🚀 **Key Insights from the Power BI Dashboard**  
 
@@ -90,14 +91,16 @@ The final **summary insights** were computed using **DAX formulas** and **Power 
 - **Highest Sales Customer Type**: Distributor with **total sales of $94,436**  
 - **Highest Gross Profit Margin Customer Type**: SSBC Tasting Room with **66.94% margin**  
 
-![Sales Summary](image1.png)  
+ ![image](https://github.com/user-attachments/assets/7c64338a-6f84-4013-bc63-c07f72288354)
+
 
 ### 📌 **Top-Selling & Most Profitable Products**  
 - **Best-selling beer**: **Bamboo Grove Maibock** with **29.41% of total sales**  
 - **Most profitable beer**: **Bamboo Grove Maibock** with **31.27% gross profit**  
 - **Lowest profit beer**: **Scholar’s Saison** with **0.32% gross profit**  
 
-![Product Summary](image2.png)  
+![image](https://github.com/user-attachments/assets/dbe3e756-6ee4-4a62-94c5-f70e9b0be964)
+
 
 ---
 
@@ -110,12 +113,8 @@ The final **summary insights** were computed using **DAX formulas** and **Power 
 ✔️ **Creating a custom Date Table allows for flexible time-based analysis**  
 
 
-
 ### 📌 **Connect with Me**  
 📧 Email: amritachinnam2@gmail.com
 📎 LinkedIn: [[Your LinkedIn Profile]  ](https://www.linkedin.com/in/amrita-chinnam-866545190/)
-🚀 GitHub: [Your GitHub Profile]  
 
----
 
-This **README file** highlights your **Power BI expertise**, **data transformation techniques**, and **business insights** while emphasizing that the **Date Table was custom-built from scratch using Power Query and follows a fiscal year from October 1st to September 30th**. 🚀 Let me know if you need further refinements!
